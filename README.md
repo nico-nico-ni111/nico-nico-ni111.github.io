@@ -28,6 +28,4 @@ Thank you for visiting my blog. I hope you find something here that inspires you
 - [The Future of Artificial Intelligence](#)
 - [Thinking about Will and Presentation](#)
 
-<script>
-    window.location.href = 'index.html';
-</script>
+[Go to Home Page](index.html)
