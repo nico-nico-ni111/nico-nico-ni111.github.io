@@ -26,4 +26,8 @@ Thank you for visiting my blog. I hope you find something here that inspires you
 - [Top 10 Travel Destinations for 2023](#)
 - [How to Stay Productive While Working from Home](#)
 - [The Future of Artificial Intelligence](#)
-- [Thinking about Will and Presentation](index.html)
+- [Thinking about Will and Presentation](#)
+
+<script>
+    window.location.href = 'index.html';
+</script>
